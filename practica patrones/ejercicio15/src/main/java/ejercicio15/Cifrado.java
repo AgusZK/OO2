@@ -1,4 +1,6 @@
 package ejercicio15;
 
-public class Cifrado {
+public interface  Cifrado {
+    public abstract String cifrar(String mensaje);
+    public abstract String descifrar(String mensaje);
 }

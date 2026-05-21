@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ar.info.juego.Encriptador;
+package ejercicio15;
 
 import java.util.Base64;
 
